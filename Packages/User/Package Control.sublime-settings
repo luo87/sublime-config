@@ -7,6 +7,7 @@
 		"PhpBeautifier",
 		"Sublime-HTMLPrettify",
 		"SublimeClang",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"ZenCoding"
 	]
 }
