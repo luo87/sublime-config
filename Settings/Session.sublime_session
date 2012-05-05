@@ -29,7 +29,23 @@
 					"file": "/home/noname/code/test/test.php",
 					"settings":
 					{
-						"buffer_size": 46701,
+						"buffer_size": 46654,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/noname/.config/sublime-text-2/Packages/Sublime-HTMLPrettify/README.md",
+					"settings":
+					{
+						"buffer_size": 2644,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/noname/Desktop/untitled.html",
+					"settings":
+					{
+						"buffer_size": 645,
 						"line_ending": "Unix"
 					}
 				}
@@ -37,9 +53,49 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 390.0,
+				"height": 392.0,
 				"selected_items":
 				[
+					[
+						"set",
+						"Set Syntax: HTML"
+					],
+					[
+						"html",
+						"HTMLPrettify: Prettify"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"h",
+						"HTMLPrettify: Prettify"
+					],
+					[
+						"htl",
+						"HTMLPrettify: Prettify"
+					],
+					[
+						"sn",
+						"Snippet: html"
+					],
+					[
+						"set h",
+						"Set Syntax: HTML"
+					],
+					[
+						"sni",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
 					[
 						"fo",
 						"Format: Php"
@@ -53,10 +109,6 @@
 						"Format: Php"
 					],
 					[
-						"lis",
-						"Package Control: List Packages"
-					],
-					[
 						"li",
 						"Package Control: List Packages"
 					],
@@ -66,10 +118,6 @@
 					],
 					[
 						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"inst",
 						"Package Control: Install Package"
 					]
 				],
@@ -107,6 +155,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"/**"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -114,6 +163,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"/***"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -124,7 +174,7 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 3,
 					"sheets":
 					[
 						{
@@ -158,15 +208,15 @@
 							"file": "/home/noname/code/test/test.php",
 							"settings":
 							{
-								"buffer_size": 46701,
+								"buffer_size": 46654,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										46363,
-										46363
+										278,
+										278
 									]
 								],
 								"settings":
@@ -176,7 +226,61 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 19908.0,
+								"translation.y": 8.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/noname/.config/sublime-text-2/Packages/Sublime-HTMLPrettify/README.md",
+							"settings":
+							{
+								"buffer_size": 2644,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1176,
+										1176
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 17.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/noname/Desktop/untitled.html",
+							"settings":
+							{
+								"buffer_size": 645,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23,
+										23
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -190,7 +294,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 33.0
 			},
 			"layout":
 			{
@@ -215,14 +319,10 @@
 				]
 			},
 			"menu_visible": true,
-			"output.php_beautifier_errors":
-			{
-				"height": 112.0
-			},
 			"position": "0,1,0,0,0,0,0,0,0,1366,768",
 			"replace":
 			{
-				"height": 0.0
+				"height": 64.0
 			},
 			"save_all_on_build": true,
 			"select_file":
