@@ -17,15 +17,63 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/noname/.config/sublime-text-2/Packages/PhpBeautifier/README.md",
+					"settings":
+					{
+						"buffer_size": 977,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/noname/code/test/test.php",
+					"settings":
+					{
+						"buffer_size": 46701,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 0.0,
+				"height": 390.0,
 				"selected_items":
 				[
+					[
+						"fo",
+						"Format: Php"
+					],
+					[
+						"f",
+						"Format: Php"
+					],
+					[
+						"for",
+						"Format: Php"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"li",
+						"Package Control: List Packages"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					]
 				],
-				"width": 0.0
+				"width": 602.0
 			},
 			"console":
 			{
@@ -76,8 +124,63 @@
 			"groups":
 			[
 				{
+					"selected": 1,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/noname/.config/sublime-text-2/Packages/PhpBeautifier/README.md",
+							"settings":
+							{
+								"buffer_size": 977,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										293,
+										293
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/noname/code/test/test.php",
+							"settings":
+							{
+								"buffer_size": 46701,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										46363,
+										46363
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 19908.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -112,6 +215,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.php_beautifier_errors":
+			{
+				"height": 112.0
+			},
 			"position": "0,1,0,0,0,0,0,0,0,1366,768",
 			"replace":
 			{
