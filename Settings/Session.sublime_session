@@ -17,45 +17,17 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/home/noname/.config/sublime-text-2/Packages/PhpBeautifier/README.md",
-					"settings":
-					{
-						"buffer_size": 977,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/noname/code/test/test.php",
-					"settings":
-					{
-						"buffer_size": 46654,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/noname/.config/sublime-text-2/Packages/Sublime-HTMLPrettify/README.md",
-					"settings":
-					{
-						"buffer_size": 2644,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/noname/Desktop/untitled.html",
-					"settings":
-					{
-						"buffer_size": 645,
-						"line_ending": "Unix"
-					}
-				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 285.0,
 				"selected_items":
 				[
+					[
+						"side",
+						"View: Toggle Open Files in Side Bar"
+					],
 					[
 						"set",
 						"Set Syntax: HTML"
@@ -121,7 +93,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 602.0
+				"width": 593.0
 			},
 			"console":
 			{
@@ -138,6 +110,10 @@
 			},
 			"file_history":
 			[
+				"/home/noname/.config/sublime-text-2/Packages/Sublime-HTMLPrettify/README.md",
+				"/home/noname/code/test/test.php",
+				"/home/noname/.config/sublime-text-2/Packages/PhpBeautifier/README.md",
+				"/home/noname/Desktop/untitled.html"
 			],
 			"find":
 			{
@@ -171,120 +147,17 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/home/noname/code/working"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 3,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/home/noname/.config/sublime-text-2/Packages/PhpBeautifier/README.md",
-							"settings":
-							{
-								"buffer_size": 977,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										293,
-										293
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Markdown/Markdown.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/noname/code/test/test.php",
-							"settings":
-							{
-								"buffer_size": 46654,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										278,
-										278
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 8.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/noname/.config/sublime-text-2/Packages/Sublime-HTMLPrettify/README.md",
-							"settings":
-							{
-								"buffer_size": 2644,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1176,
-										1176
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Markdown/Markdown.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 17.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/home/noname/Desktop/untitled.html",
-							"settings":
-							{
-								"buffer_size": 645,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										23,
-										23
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -319,7 +192,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"position": "0,1,0,0,0,66,24,706,504,1920,1080",
 			"replace":
 			{
 				"height": 64.0
@@ -342,7 +215,7 @@
 				"width": 0.0
 			},
 			"show_minimap": true,
-			"show_open_files": false,
+			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
 			"side_bar_width": 150.0,
